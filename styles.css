@@ -34,6 +34,10 @@ body {
     opacity: 100%;
 } */
 
+#sub-title-contact h3 {
+    margin-left: 50%;
+}
+
 .container form {
     display: flex;
     flex-direction: column;
